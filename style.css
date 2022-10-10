@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(212, 182, 126);
+}
+.container {
+  text-align: center;
+}
+.datadiri h1 {
+  text-align: center;
+}
+.datadiri img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+table tr {
+  background-color: rgb(135, 135, 228);
+}
+table tr:hover {
+  background-color: rgb(212, 182, 126);
+}
